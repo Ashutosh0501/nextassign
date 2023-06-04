@@ -11,7 +11,7 @@
   display: inherit;
   justify-content: inherit;
   align-items: inherit;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   max-width: var(--max-width);
   width: 100%;
   z-index: 2;
@@ -35,7 +35,7 @@
 }
 
 .code {
-  font-weight: 700;
+  font-weight: 600;
   font-family: var(--font-mono);
 }
 
@@ -50,7 +50,7 @@
   padding: 1rem 1.2rem;
   border-radius: var(--border-radius);
   background: rgba(var(--card-rgb), 0);
-  border: 1px solid rgba(var(--card-border-rgb), 0);
+  border: 2px solid rgba(var(--card-border-rgb), 0);
   transition: background 200ms, border 200ms;
 }
 
